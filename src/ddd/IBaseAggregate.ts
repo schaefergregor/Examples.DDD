@@ -1,1 +1,3 @@
-export interface IBaseAggregate {}
+export interface IBaseAggregate {
+  id: string;
+}
